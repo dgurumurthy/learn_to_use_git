@@ -1,2 +1,5 @@
 This is a test. 
-Hi from git
+Hi from git.
+Hi from terminal.
+ Hi from Terminal
+ Hi from Terminal again
